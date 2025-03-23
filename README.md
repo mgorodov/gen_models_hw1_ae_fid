@@ -1,5 +1,4 @@
-# gen_models_hw1_ae_fid
-HW1 Generative Models in Machine Learning
+# HW1 Generative Models in Machine Learning
 
 Please find hw_ae_fid.ipynb notebook with solutions
 
